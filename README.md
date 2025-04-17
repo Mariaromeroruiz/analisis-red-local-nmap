@@ -70,7 +70,7 @@ No se puede confirmar si el dispositivo estaba realizando llamadas en ese moment
 nmap -sV -O 192.168.1.17
 ```
 
-📸 ![NMAP](images/Escaneos_sospechoso.png)
+📸 ![NMAP](images/Escaneo_sospechoso.png)
 
 ### Resultado:
 
